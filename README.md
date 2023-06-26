@@ -1,4 +1,4 @@
-# Backend Application Readme
+# Image to Text Application Readme
 
 This is a backend application for my application. The frontend is made using React. 
 
